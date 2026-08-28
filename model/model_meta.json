@@ -1,0 +1,9 @@
+{
+  "version": 176,
+  "accuracy": 0.7728,
+  "model_path": "model\\model_v176.pkl",
+  "reason": "manual",
+  "features": [
+    "features"
+  ]
+}
